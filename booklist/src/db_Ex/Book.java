@@ -1,4 +1,4 @@
-package DB;
+package db_Ex;
 
 public class Book {
 
